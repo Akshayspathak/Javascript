@@ -39,7 +39,7 @@ if (true) {
 
 // *************** interesting *******************************
 
-console.log(addOne(5))
+console.log(addOne(5))                            // o/p check only
 function addOne(num){
     return num + 1
 }
