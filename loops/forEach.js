@@ -1,5 +1,5 @@
 
-const coding = ["Js", "Java", "CPP", "ruby","HTML", "CSS"]
+// const coding = ["Js", "Java", "CPP", "ruby","HTML", "CSS"]
 
 // coding.forEach( function (item) {            // function
 //     console.log(item);
@@ -26,21 +26,30 @@ const coding = ["Js", "Java", "CPP", "ruby","HTML", "CSS"]
 
 // **********[{},{},{}] ********************
 
-const myCoding = [ 
-    {
-    name : "javascript",
-    fileName : "java"
-},
-{
-    name : "java",
-    fileName : "java"
-},
-{                                // Array Madhe Object Madhe property Name Or FileName output madhe gheu Shakto
-    name : "pythan",
-    fileName : "py"
-}]
+// const myCoding = [ 
+//     {
+//     name : "javascript",
+//     fileName : "java"
+// },
+// {
+//     name : "java",
+//     fileName : "java"
+// },
+// {                                // Array Madhe Object Madhe property Name Or FileName output madhe gheu Shakto
+//     name : "pythan",
+//     fileName : "py"
+// }]
 
-myCoding.forEach( (item)=> {
-    console.log(item.fileName);
-    console.log(item.name);
-})
+// myCoding.forEach( (item)=> {
+//     console.log(item.fileName);
+//     console.log(item.name);
+// })
+
+///////////////////// For Each ////////////////////////////////////////////////////////////
+
+// const coding = ["Js", "Java", "CPP", "ruby","HTML", "CSS"]
+
+// coding.forEach(  (item) => {
+//     console.log(item);
+// })
+
